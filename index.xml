@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay的Github Page</title>
+    <link>https://JayFwj.github.io/</link>
+    <description>Recent content on Jay的Github Page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh_CN</language>
+    <copyright>All rights reserved - 2017</copyright>
+    <lastBuildDate>Tue, 22 May 2018 22:04:26 +0800</lastBuildDate>
+    
+	<atom:link href="https://JayFwj.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://JayFwj.github.io/post/scala-learning-pattern-matching/</link>
+      <pubDate>Tue, 22 May 2018 22:04:26 +0800</pubDate>
+      
+      <guid>https://JayFwj.github.io/post/scala-learning-pattern-matching/</guid>
+      <description> 大家好，我是渣渣辉。
+简介  出生地：香港 性别：男 年龄：38
+演员经历 是兄弟就来啃我
+ 是兄弟就来啃我啊
+ 是兄弟就来啃我啊哈哈
+  </description>
+    </item>
+    
+    <item>
+      <title>What are my goals?</title>
+      <link>https://JayFwj.github.io/post/clear-know-goals/</link>
+      <pubDate>Tue, 22 May 2018 22:04:26 +0800</pubDate>
+      
+      <guid>https://JayFwj.github.io/post/clear-know-goals/</guid>
+      <description> 大家好，清楚的知道我们想实现的目标，想成为一个什么样的人是如此的重要，花时间去思考自己的人生，前进的方向一切的意义，只有离得足够远，才能看得真切；正如同所有的绚烂，只有走得足够近，才能感受震撼。站在2018年的岁尾回望40年的来路，仿佛历史赋予了我们一把神奇的长镜——
+简介  出生地：香港 性别：男 年龄：38
+演员经历 是兄弟就来啃我
+ 是兄弟就来啃我啊
+ 是兄弟就来啃我啊哈哈
+  </description>
+    </item>
+    
+  </channel>
+</rss>
